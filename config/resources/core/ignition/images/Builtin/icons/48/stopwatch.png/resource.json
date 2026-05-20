@@ -1,0 +1,20 @@
+{
+  "scope": "A",
+  "version": 1,
+  "restricted": false,
+  "overridable": true,
+  "files": [
+    "stopwatch.png"
+  ],
+  "attributes": {
+    "width": 48,
+    "format": "PNG",
+    "lastModification": {
+      "actor": "import",
+      "timestamp": "2026-04-07T18:00:14Z"
+    },
+    "size": 1890,
+    "lastModificationSignature": "f4f54b56cbba28724906979a1b3f0c61d146944686c60113852278daf4ab07d4",
+    "height": 48
+  }
+}

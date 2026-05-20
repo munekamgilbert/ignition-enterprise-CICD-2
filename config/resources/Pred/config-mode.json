@@ -1,0 +1,7 @@
+{
+  "title": "Prod",
+  "description": "Prod",
+  "enabled": true,
+  "inheritable": true,
+  "parent": "core"
+}

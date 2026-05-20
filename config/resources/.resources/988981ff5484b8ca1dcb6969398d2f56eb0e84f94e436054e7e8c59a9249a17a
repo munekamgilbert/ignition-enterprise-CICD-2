@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "uuid": "fe4bb784-b9d6-4050-b300-9fa69034d9e9",
+      "username": "munekamgilbert@gmail.com",
+      "schedule": "Always",
+      "password": "[59d013ab]69811f12f82219ebb32b4858116edc78bfbb68dd2be129686b2641f347362003",
+      "passwordDate": "20260407.135840214-0400",
+      "passwordHistory": [],
+      "createdDate": "20260407.135840213-0400",
+      "lastModifiedDate": "20260407.135840213-0400",
+      "roles": [
+        "7b6cdc74-e467-4d0b-83e4-58b4781af8b1"
+      ],
+      "extraProps": [],
+      "scheduleAdjustments": [],
+      "contactInfos": []
+    }
+  ],
+  "roles": [
+    {
+      "uuid": "7b6cdc74-e467-4d0b-83e4-58b4781af8b1",
+      "rolename": "Administrator",
+      "createdDate": "20260407.135840213-0400",
+      "lastModifiedDate": "20260407.135840213-0400"
+    }
+  ]
+}

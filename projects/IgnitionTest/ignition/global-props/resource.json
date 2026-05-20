@@ -1,0 +1,16 @@
+{
+  "scope": "A",
+  "version": 1,
+  "restricted": false,
+  "overridable": true,
+  "files": [
+    "data.bin"
+  ],
+  "attributes": {
+    "lastModificationSignature": "2fefa710efbaa18b6f33d0993187fa60555a3f61a96d9132e82215e3d6bd3c88",
+    "lastModification": {
+      "actor": "munekamgilbert@gmail.com",
+      "timestamp": "2026-04-08T14:36:56Z"
+    }
+  }
+}

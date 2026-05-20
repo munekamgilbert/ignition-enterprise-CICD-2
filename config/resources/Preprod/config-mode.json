@@ -1,0 +1,7 @@
+{
+  "title": "Preprod",
+  "description": "Preprod",
+  "enabled": true,
+  "inheritable": true,
+  "parent": "core"
+}

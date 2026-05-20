@@ -1,0 +1,20 @@
+{
+  "scope": "A",
+  "version": 1,
+  "restricted": false,
+  "overridable": true,
+  "files": [
+    "trafficlight_green.png"
+  ],
+  "attributes": {
+    "width": 16,
+    "format": "PNG",
+    "lastModification": {
+      "actor": "import",
+      "timestamp": "2026-04-07T18:00:07Z"
+    },
+    "size": 379,
+    "lastModificationSignature": "ecf53ba0f2a532cd8bff421a552943bdf1fc0a13e0c0895e613552c242a1a615",
+    "height": 16
+  }
+}

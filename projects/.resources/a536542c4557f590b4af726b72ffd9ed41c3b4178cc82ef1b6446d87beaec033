@@ -1,0 +1,17 @@
+{
+  "pages": {
+    "/Main": {
+      "viewPath": "01MainView"
+    },
+    "/admin": {
+      "viewPath": "dashboard"
+    },
+    "/machineoverview": {
+      "title": "",
+      "viewPath": "MachineOverview"
+    }
+  },
+  "sharedDocks": {
+    "cornerPriority": "top-bottom"
+  }
+}

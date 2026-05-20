@@ -1,0 +1,7 @@
+{
+  "title": "Development",
+  "description": "For Development Purposes",
+  "enabled": true,
+  "inheritable": true,
+  "parent": "core"
+}
