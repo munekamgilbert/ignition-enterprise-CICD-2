@@ -1,0 +1,16 @@
+{
+  "scope": "G",
+  "version": 1,
+  "restricted": false,
+  "overridable": true,
+  "files": [
+    "config.json"
+  ],
+  "attributes": {
+    "lastModificationSignature": "0855df8a2374e5ba5b67a92c33fdc534caac5a0a6508003ec97bcbe8cdff5b3d",
+    "lastModification": {
+      "actor": "munekamgilbert@gmail.com",
+      "timestamp": "2026-05-19T14:14:20Z"
+    }
+  }
+}
