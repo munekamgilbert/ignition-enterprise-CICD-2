@@ -4,6 +4,10 @@
     "onStartup": "enabled",
     "certFingerprint": "0299d53c38bdbe7ca79bd6c778a5bab884e4c813"
   },
+  "com.inductiveautomation.eam": {
+    "filename": "C:\\Program Files\\Inductive Automation\\Ignition\\user-lib\\modules\\Enterprise Administration-module.modl",
+    "onStartup": "enabled"
+  },
   "com.inductiveautomation.eventstream": {
     "filename": "C:\\Program Files\\Inductive Automation\\Ignition\\user-lib\\modules\\EventStream-module.modl",
     "onStartup": "enabled",
@@ -34,6 +38,10 @@
     "onStartup": "enabled",
     "certFingerprint": "0299d53c38bdbe7ca79bd6c778a5bab884e4c813"
   },
+  "com.inductiveautomation.opccom": {
+    "filename": "C:\\Program Files\\Inductive Automation\\Ignition\\user-lib\\modules\\OpcCom-module.modl",
+    "onStartup": "enabled"
+  },
   "com.inductiveautomation.opcua": {
     "filename": "C:\\Program Files\\Inductive Automation\\Ignition\\user-lib\\modules\\OPC-UA-module.modl",
     "onStartup": "enabled",
@@ -43,6 +51,22 @@
     "filename": "C:\\Program Files\\Inductive Automation\\Ignition\\user-lib\\modules\\Allen-Bradley Drivers-module.modl",
     "onStartup": "enabled",
     "certFingerprint": "0299d53c38bdbe7ca79bd6c778a5bab884e4c813"
+  },
+  "com.inductiveautomation.opcua.drivers.bacnet": {
+    "filename": "C:\\Program Files\\Inductive Automation\\Ignition\\user-lib\\modules\\BACnet Driver-module.modl",
+    "onStartup": "enabled"
+  },
+  "com.inductiveautomation.opcua.drivers.dnp3": {
+    "filename": "C:\\Program Files\\Inductive Automation\\Ignition\\user-lib\\modules\\DNP3-Driver.modl",
+    "onStartup": "enabled"
+  },
+  "com.inductiveautomation.opcua.drivers.dnp3v2": {
+    "filename": "C:\\Program Files\\Inductive Automation\\Ignition\\user-lib\\modules\\DNP3-Driver-v2.modl",
+    "onStartup": "enabled"
+  },
+  "com.inductiveautomation.opcua.drivers.iec61850": {
+    "filename": "C:\\Program Files\\Inductive Automation\\Ignition\\user-lib\\modules\\IEC 61850 Driver-module.modl",
+    "onStartup": "enabled"
   },
   "com.inductiveautomation.opcua.drivers.logix": {
     "filename": "C:\\Program Files\\Inductive Automation\\Ignition\\user-lib\\modules\\Logix Driver-module.modl",
@@ -84,6 +108,10 @@
     "onStartup": "enabled",
     "certFingerprint": "0299d53c38bdbe7ca79bd6c778a5bab884e4c813"
   },
+  "com.inductiveautomation.phone-notification": {
+    "filename": "C:\\Program Files\\Inductive Automation\\Ignition\\user-lib\\modules\\Voice Notification-module.modl",
+    "onStartup": "enabled"
+  },
   "com.inductiveautomation.reporting": {
     "filename": "C:\\Program Files\\Inductive Automation\\Ignition\\user-lib\\modules\\Reporting-module.modl",
     "onStartup": "enabled",
@@ -94,9 +122,21 @@
     "onStartup": "enabled",
     "certFingerprint": "0299d53c38bdbe7ca79bd6c778a5bab884e4c813"
   },
+  "com.inductiveautomation.sms-notification": {
+    "filename": "C:\\Program Files\\Inductive Automation\\Ignition\\user-lib\\modules\\SMS Notification-module.modl",
+    "onStartup": "enabled"
+  },
   "com.inductiveautomation.sqlbridge": {
     "filename": "C:\\Program Files\\Inductive Automation\\Ignition\\user-lib\\modules\\SQL Bridge-module.modl",
     "onStartup": "enabled",
     "certFingerprint": "0299d53c38bdbe7ca79bd6c778a5bab884e4c813"
+  },
+  "com.inductiveautomation.symbol-factory": {
+    "filename": "C:\\Program Files\\Inductive Automation\\Ignition\\user-lib\\modules\\Symbol Factory-module.modl",
+    "onStartup": "enabled"
+  },
+  "com.inductiveautomation.vision": {
+    "filename": "C:\\Program Files\\Inductive Automation\\Ignition\\user-lib\\modules\\Vision-module.modl",
+    "onStartup": "enabled"
   }
 }
