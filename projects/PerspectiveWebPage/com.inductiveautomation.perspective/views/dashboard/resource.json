@@ -1,0 +1,17 @@
+{
+  "scope": "G",
+  "version": 1,
+  "restricted": false,
+  "overridable": true,
+  "files": [
+    "view.json",
+    "thumbnail.png"
+  ],
+  "attributes": {
+    "lastModificationSignature": "9744fb088c2440131ad417f3abe056d810065e7f927e22fe596078309b8f4771",
+    "lastModification": {
+      "actor": "munekamgilbert@gmail.com",
+      "timestamp": "2026-05-19T16:25:45Z"
+    }
+  }
+}

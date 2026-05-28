@@ -1,0 +1,52 @@
+{
+  "custom": {},
+  "params": {},
+  "props": {},
+  "root": {
+    "children": [
+      {
+        "meta": {
+          "name": "LedDisplay"
+        },
+        "position": {
+          "basis": "32px"
+        },
+        "props": {
+          "value": 4
+        },
+        "type": "ia.display.led-display"
+      },
+      {
+        "events": {
+          "dom": {
+            "onClick": {
+              "config": {
+                "newTab": true,
+                "page": "/Main"
+              },
+              "scope": "C",
+              "type": "nav"
+            }
+          }
+        },
+        "meta": {
+          "name": "Button"
+        },
+        "position": {
+          "basis": "34px"
+        },
+        "props": {
+          "text": "MainPage"
+        },
+        "type": "ia.input.button"
+      }
+    ],
+    "meta": {
+      "name": "root"
+    },
+    "props": {
+      "direction": "column"
+    },
+    "type": "ia.container.flex"
+  }
+}
